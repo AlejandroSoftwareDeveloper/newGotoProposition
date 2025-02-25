@@ -3,9 +3,9 @@ Propuesta de instalacion en laravel y Vuejs
 
 
 ## Iniciar la aplicacion 
- En caso de no tener todo configurado ir a Instalacion base de Laravel
+ **En caso de no tener todo configurado ir a Instalacion base de Laravel**
 ```bash 
-    composer run dev
+composer run dev
 ```
 
 ## Instalacion base de Laravel
